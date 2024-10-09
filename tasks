@@ -1,0 +1,16 @@
+# note app with api
+
+# idea
+- simple note app with api to store notes
+- notes should have title, body, date and category
+- notes should be stored in a json file
+- api should have routes to create, read, update and delete notes
+- the react app should have a form to create notes and a list to display notes
+
+# tasks
+✅ create folders for the app and for the api
+✅ create a json file to store notes
+✅ create a node server with express
+- create routes to create, read, update and delete notes
+- create a react app with a form to create notes and a list to display notes
+- connect the react app with the api
