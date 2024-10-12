@@ -6,6 +6,7 @@
 - notes should be stored in a json file
 - api should have routes to create, read, update and delete notes
 - the react app should have a form to create notes and a list to display notes
+- the list should have a filter to filter notes by category
 
 # tasks
 ✅ create folders for the app and for the api
