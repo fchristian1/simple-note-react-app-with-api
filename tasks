@@ -11,6 +11,6 @@
 ✅ create folders for the app and for the api
 ✅ create a json file to store notes
 ✅ create a node server with express
-- create routes to create, read, update and delete notes
-- create a react app with a form to create notes and a list to display notes
-- connect the react app with the api
+✅ create routes to create, read, update and delete notes
+✅ create a react app with a form to create notes and a list to display notes
+✅ connect the react app with the api

@@ -3,4 +3,5 @@
 @tailwind utilities;
 html {
     @apply bg-gray-500;
+    min-width: 320px;
 }

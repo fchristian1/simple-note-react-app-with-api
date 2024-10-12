@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js",
-    "test": "node --test"
+    "test": "node --experimental-vm-modules ./node_modules/.bin/jest"
   },
   "keywords": [],
   "author": "",
@@ -17,9 +17,6 @@
     "express": "^4.21.1"
   },
   "devDependencies": {
-    "chai": "^5.1.1",
-    "mocha": "^10.7.3",
-    "sinon": "^19.0.2",
-    "sinon-chai": "^4.0.0"
+    "jest": "^29.7.0"
   }
 }
